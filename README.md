@@ -3,6 +3,8 @@
 Este repositorio contiene la **Los scripts del simulador**.
 El proyecto supera limite de almacenamiento...  El archivo completo están disponibles en Google Drive:
 [Ver proyecto completo](https://drive.google.com/drive/folders/1q5rx7ZqEMT2HZ1aGngHYeRodkBHFNWsS?usp=sharing)
+
+
 <img width="728" height="484" alt="imagen3" src="https://github.com/user-attachments/assets/bcf5e6ca-a36f-4d17-a599-47097e968cc6" />
 <img width="562" height="303" alt="imagen2" src="https://github.com/user-attachments/assets/55416a92-5b45-4afd-9547-7fd2b0516bf5" />
 <img width="670" height="452" alt="imagen1" src="https://github.com/user-attachments/assets/f637b293-7d32-477f-ab7f-b2d6ef97eed9" />
